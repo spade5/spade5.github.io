@@ -1,4 +1,6 @@
-## 【炒冷饭造轮子】之 Promise
+layout: page
+title: "【炒冷饭造轮子】之 Promise"
+permalink: /promise/
 
 实现一个轮子之前，我们先得了解这个轮子。
 
